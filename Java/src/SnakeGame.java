@@ -13,5 +13,26 @@ public class SnakeGame {
         headPosition = new int[]{x, y};
     }
 
+    public int[] findTailExhaustive() {
+
+    }
+
+    public int[] findTailRecursivly() {
+
+    }
+
+    private void resetCounters() {
+
+    }
+
+    private static int getRecursiveChecks() {
+
+    }
+
+    private static int getExhaustiveChecks() {
+
+    }
+
+
 }
 
